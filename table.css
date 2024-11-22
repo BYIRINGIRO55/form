@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: o;
+    box-sizing: border-box;
+}
+h1{
+margin-top: 30px;
+margin-left: 90px;
+
+}
+table{
+padding: 20px;
+margin-left: 20px;
+margin-right: 20px;
+border-radius: 10px;
+background-color: white;
+
+}
+td{
+    padding: 20px;
+}
+img{
+    height: 100vh;
+}
+body{
+    background-repeat: no-repeat;
+    height: 100vh;
+    background-size: cover;
+    background-color:lightblue;
+
+}
+th{
+    color:darkblue;
+    font-family: sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+}
+td{
+    color:darkmagenta;
+    font-family: sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+}
